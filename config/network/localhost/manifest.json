@@ -1,7 +1,7 @@
 {
     "serverAddress": "localhost",
     "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
+    "iconName": "NSA-logo.png",
     "terminalID": "Y56",
     "defaultUser": {
         "userId": "user",
@@ -14,7 +14,7 @@
             "login admin@admin"
         ],
         "admin": [
-            "ping fbi.gov"
+            "ping nsa.gov"
         ]
     }
 }
